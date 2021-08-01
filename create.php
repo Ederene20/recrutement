@@ -9,7 +9,7 @@
     <script src="js/bootstrap.bundle.min.js"></script>
     <title>Create</title>
 </head>
-<body class="container">
+<body class="container col-sm-6">
 
         <h1>Nouveau candidat</h1>
     
