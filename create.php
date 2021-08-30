@@ -12,7 +12,7 @@
 <body class="container col-sm-6">
 
         <h1>Nouveau candidat</h1>
-    
+
         <form action="store.php" method="post" class="container" enctype="multipart/form-data">
 
             <div class="row mb-3">
@@ -53,7 +53,7 @@
             <div class="row mb-3">
                 <label for="fichier" class="col-form-label col-sm-2">Fichier : </label>
                 <div class="col-sm-10">
-                    <input type="file" id="fichier" name="fichier" class="form-control" value="">
+                    <input type="file" id="fichier" name="fichier" class="form-control">
                 </div>
             </div>
 
